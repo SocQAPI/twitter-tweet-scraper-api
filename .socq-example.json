@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "endpointId": "x-posts",
+  "templateVersion": "2.0.0",
+  "method": "POST",
+  "path": "/v1/x/posts",
+  "landingPage": "https://socq.ai/apis/x/posts",
+  "docsPage": "https://docs.socq.ai",
+  "generatedFrom": "SocQAPI/socq-example-template"
+}
