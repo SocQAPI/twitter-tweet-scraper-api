@@ -1,13 +1,13 @@
 # Twitter Tweet Scraper API examples for SocQ
 
-[![Twitter Tweet Scraper API](https://img.shields.io/badge/API-Twitter%20Tweet%20Scraper%20API-F64C31)](https://socq.ai/apis/x/posts?utm_source=github&utm_medium=repository&utm_campaign=twitter-tweet-scraper-api)
+[![Twitter Tweet Scraper API](https://img.shields.io/badge/API-Twitter%20Tweet%20Scraper%20API-F64C31)](https://socq.ai/apis/x?utm_source=github&utm_medium=repository&utm_campaign=twitter-tweet-scraper-api)
 [![API documentation](https://img.shields.io/badge/Docs-docs.socq.ai-111827)](https://docs.socq.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-2563EB)](LICENSE)
 [![Check examples](https://github.com/SocQAPI/twitter-tweet-scraper-api/actions/workflows/check.yml/badge.svg)](https://github.com/SocQAPI/twitter-tweet-scraper-api/actions/workflows/check.yml)
 
 Turn known public x.com or twitter.com status URLs into structured post records with full text, author context, engagement counts, media, entities, and conversation relationships.
 
-[Try Twitter Tweet Scraper API](https://socq.ai/apis/x/posts?utm_source=github&utm_medium=repository&utm_campaign=twitter-tweet-scraper-api)
+[Try Twitter Tweet Scraper API](https://socq.ai/apis/x?utm_source=github&utm_medium=repository&utm_campaign=twitter-tweet-scraper-api)
 · [Get an API key](https://socq.ai/dashboard/api-key?utm_source=github&utm_medium=repository&utm_campaign=twitter-tweet-scraper-api)
 · [Documentation](https://docs.socq.ai)
 · [All SocQ examples](https://github.com/SocQAPI/socq-examples)
